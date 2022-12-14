@@ -1,0 +1,6 @@
+[user]
+	name = Jacob Lärfors
+	email = jlarfors@verifa.io
+
+[includeIf "gitdir:~/work/vcc/"]
+    path = ~/.gitconfig_vcc
