@@ -263,13 +263,16 @@ SETUVAR _fish_abbr_ls:exa\x20\x2dlag\x20\x2d\x2dheader
 SETUVAR _fish_abbr_mkdir:mkdir\x20\x2dp
 SETUVAR _fish_abbr_mv:mv\x20\x2di
 SETUVAR _fish_abbr_rm:rm\x20\x2di
+SETUVAR _fish_abbr_tf:terraform
 SETUVAR _fish_abbr_tfap:terraform\x20apply\x20tfplan
 SETUVAR _fish_abbr_tfdt:terraform\x20destroy\x20\x2dtarget
+SETUVAR _fish_abbr_tfi:terraform\x20init
 SETUVAR _fish_abbr_tfpo:terraform\x20plan\x20\x2dout\x20tfplan
 SETUVAR _fish_abbr_tfr:terraform\x20refresh
 SETUVAR _fish_abbr_tfsl:terraform\x20state\x20list
 SETUVAR _fish_abbr_tfsrm:terraform\x20state\x20rm
 SETUVAR _fish_abbr_tp:terraplate
+SETUVAR _fish_abbr_unset:set\x20\x2d\x2derase
 SETUVAR _fish_abbr_which:type\x20\x2da
 SETUVAR _fisher_blackjid_2F_plugin_2D_kubectl_files:\x7e/\x2econfig/fish/functions/__kubectl\x2edestroy\x2efish\x1e\x7e/\x2econfig/fish/functions/__kubectl\x2einit\x2efish\x1e\x7e/\x2econfig/fish/functions/__kubectl\x2ereset\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/kubectl\x2efish
 SETUVAR _fisher_jhillyerd_2F_plugin_2D_git_files:\x7e/\x2econfig/fish/functions/__git\x2ebranch_has_wip\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2ecurrent_branch\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2edefault_branch\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2edestroy\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2einit\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2ereset\x2efish\x1e\x7e/\x2econfig/fish/functions/gbage\x2efish\x1e\x7e/\x2econfig/fish/functions/gbda\x2efish\x1e\x7e/\x2econfig/fish/functions/gdt\x2efish\x1e\x7e/\x2econfig/fish/functions/gdv\x2efish\x1e\x7e/\x2econfig/fish/functions/ggl\x2efish\x1e\x7e/\x2econfig/fish/functions/ggp\x2efish\x1e\x7e/\x2econfig/fish/functions/ggpnp\x2efish\x1e\x7e/\x2econfig/fish/functions/ggsup\x2efish\x1e\x7e/\x2econfig/fish/functions/ggu\x2efish\x1e\x7e/\x2econfig/fish/functions/gignored\x2efish\x1e\x7e/\x2econfig/fish/functions/glp\x2efish\x1e\x7e/\x2econfig/fish/functions/gpoat\x2efish\x1e\x7e/\x2econfig/fish/functions/grename\x2efish\x1e\x7e/\x2econfig/fish/functions/grt\x2efish\x1e\x7e/\x2econfig/fish/functions/gtl\x2efish\x1e\x7e/\x2econfig/fish/functions/gunwip\x2efish\x1e\x7e/\x2econfig/fish/functions/gwip\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/git\x2efish
