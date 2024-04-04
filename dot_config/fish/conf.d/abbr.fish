@@ -17,14 +17,14 @@ abbr kx "kubectl exec -ti"
 abbr kc "kubectx"
 
 # Terraform abbres
-abbr tf "terraform"
-abbr tfi "terraform init"
-abbr tfpo "terraform plan -out tfplan"
-abbr tfap "terraform apply tfplan"
-abbr tfdt "terraform destroy -target"
-abbr tfr "terraform refresh"
-abbr tfsl "terraform state list"
-abbr tfsrm "terraform state rm"
+abbr tf "tofu"
+abbr tfi "tofu init"
+abbr tfpo "tofu plan -out tfplan"
+abbr tfap "tofu apply tfplan"
+abbr tfdt "tofu destroy -target"
+abbr tfr "tofu refresh"
+abbr tfsl "tofu state list"
+abbr tfsrm "tofu state rm"
 
 # Terraplate abbres
 abbr tp "terraplate"
@@ -37,4 +37,3 @@ abbr cm "chezmoi"
 abbr cmi "chezmoi init"
 abbr cmia "chezmoi init --apply"
 abbr cma "chezmoi apply"
-

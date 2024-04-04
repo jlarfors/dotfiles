@@ -25,8 +25,23 @@ Here are the installation steps:
 brew install chezmoi
 ```
 
-## Apply
+To get this dotfiles repository and apply it:
 
 ```bash
 chezmoi init jlarfors --apply
+```
+
+## Apply
+
+After making some changes, either to the dotfiles or local configs:
+
+```bash
+# Move to the chezmoi directory
+chezmoi cd
+
+# Diff
+chezmoi diff
+
+# Apply the configurations
+chezmoi apply
 ```
