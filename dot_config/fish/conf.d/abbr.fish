@@ -8,6 +8,8 @@ abbr which "type -a"
 abbr ls "exa -lag --header"
 
 # Kubectl abbres
+abbr kasf "kubectl apply --server-side=true -f"
+abbr kd "kubectl diff --server-side=true -f"
 abbr kak "kubectl apply -k"
 abbr kdelk "kubectl delete -k"
 abbr kk "kubectl kustomize"

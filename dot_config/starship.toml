@@ -12,6 +12,9 @@ success_symbol = "[❯](bold green)" # The "success_symbol" segment is being set
 [aws]
 disabled = true
 
+[docker_context]
+disabled = true
+
 [gcloud]
 disabled = true
 
