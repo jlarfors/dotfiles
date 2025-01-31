@@ -3,7 +3,7 @@
 brew install \
     autojump \
     bat \
-    exa \
+    eza \
     git-delta \
     fzf \
     starship \

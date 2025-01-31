@@ -5,7 +5,7 @@ abbr mv "mv -i"
 abbr mkdir "mkdir -p"
 abbr h "history"
 abbr which "type -a"
-abbr ls "exa -lag --header"
+abbr ls "eza -lag --header"
 
 # Kubectl abbres
 abbr kasf "kubectl apply --server-side=true -f"
@@ -39,3 +39,6 @@ abbr cm "chezmoi"
 abbr cmi "chezmoi init"
 abbr cmia "chezmoi init --apply"
 abbr cma "chezmoi apply"
+
+# VSCode
+abbr elicode "code --profile elisa"
