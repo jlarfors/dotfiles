@@ -4,6 +4,7 @@ brew install \
     autojump \
     bat \
     colima \
+    docker \
     eza \
     git-delta \
     fish \
