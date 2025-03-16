@@ -8,6 +8,7 @@ brew install \
     eza \
     git-delta \
     fish \
+    fnm \
     fzf \
     starship \
     stats \
