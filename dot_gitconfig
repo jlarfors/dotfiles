@@ -1,10 +1,10 @@
 [user]
 	name = Jacob Lärfors
 	email = 1135394+jlarfors@users.noreply.github.com
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACojgJdDHzcsjEM1uQf4pxJ+r1qk30Uhb68xfUmuntB
+	signingKey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACojgJdDHzcsjEM1uQf4pxJ+r1qk30Uhb68xfUmuntB
 
-[includeIf "gitdir:~/work/vcc/"]
-    path = ~/.gitconfig_vcc
+[includeIf "gitdir:~/git/sok/"]
+    path = ~/.config/git/gitconfig_sok
 
 [core]
 	pager = delta
@@ -21,7 +21,8 @@
 	format = ssh
 
 [gpg "ssh"]
-  program = "/Applications/1Password.app/Contents/MacOS/op-ssh-sign"
+	program = "/Applications/1Password.app/Contents/MacOS/op-ssh-sign"
+	allowedSignersFile = ~/.config/git/allowed_ssh_signers
 
 [pull]
 	ff = only
