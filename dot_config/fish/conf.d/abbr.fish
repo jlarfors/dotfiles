@@ -42,3 +42,8 @@ abbr cma "chezmoi apply"
 
 # VSCode
 abbr elicode "code --profile elisa"
+
+
+# Misc
+# We don't use nvm. Remind that we are using fnm.
+abbr nvm "fnm"
