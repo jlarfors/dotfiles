@@ -21,6 +21,7 @@ abbr kc "kubectx"
 # Terraform abbres
 abbr tf "terraform"
 abbr tfi "terraform init"
+abbr tfp "terraform plan"
 abbr tfpo "terraform plan -out tfplan"
 abbr tfap "terraform apply tfplan"
 abbr tfdt "terraform destroy -target"
