@@ -7,6 +7,9 @@ abbr h "history"
 abbr which "type -a"
 abbr ls "eza -lag --header"
 
+# Git abbres
+abbr gds "git diff --staged"
+
 # Kubectl abbres
 abbr kasf "kubectl apply --server-side=true -f"
 abbr kd "kubectl diff --server-side=true -f"
