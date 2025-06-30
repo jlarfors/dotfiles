@@ -8,3 +8,4 @@ starship init fish | source
 
 # Set path.
 fish_add_path /Users/jacob.larfors/.local/bin
+fish_add_path /Users/jacob.larfors/go/bin
