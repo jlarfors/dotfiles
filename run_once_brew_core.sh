@@ -23,4 +23,4 @@ brew install --cask \
 
 # Setup dockerx plugin.
 mkdir -p ~/.docker/cli-plugins
-ln -s $(which docker-buildx) ~/.docker/cli-plugins/docker-buildx
+ln -sf $(which docker-buildx) ~/.docker/cli-plugins/docker-buildx
